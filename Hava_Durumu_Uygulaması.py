@@ -49,7 +49,7 @@ while True:
         time.sleep(1.5)
         webbrowser.open("https://www.mgm.gov.tr/deniz/24saatlik.aspx")
         break
-        
+        ...
      
     
 
